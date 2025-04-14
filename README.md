@@ -1,10 +1,4 @@
-## About me
-
-<!--
-**JiyuZZZZ/JiyuZZZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+# About me
 - 🔭 I am currently a freelancer actively seeking opportunities.
 - 🌱 I hold a Bachelor’s degree in Actuarial Science from Heriot-Watt University and a Master’s degree in Financial Mathematics from the University of Leeds.
 - 📫 How to reach me: jiyu177@icloud.com
